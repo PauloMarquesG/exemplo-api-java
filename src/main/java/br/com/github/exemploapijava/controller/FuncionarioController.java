@@ -1,10 +1,8 @@
 package br.com.github.exemploapijava.controller;
 
 import br.com.github.exemploapijava.data.FuncionarioData;
-import br.com.github.exemploapijava.model.Funcionario;
 import br.com.github.exemploapijava.request.FuncionarioRequest;
 import br.com.github.exemploapijava.service.FuncionarioService;
-import org.apache.coyote.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,11 +1,10 @@
-package br.com.github.exemploapijava.model;
+package br.com.github.exemploapijava.controller.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
 import java.math.BigDecimal;
-import java.sql.Date;
 
 @Getter
 @Setter

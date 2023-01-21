@@ -1,6 +1,6 @@
 package br.com.github.exemploapijava.repository;
 
-import br.com.github.exemploapijava.model.Funcionario;
+import br.com.github.exemploapijava.controller.model.Funcionario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
