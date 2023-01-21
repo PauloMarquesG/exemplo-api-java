@@ -1,7 +1,7 @@
 package br.com.github.exemploapijava.service.impl;
 
 import br.com.github.exemploapijava.mapper.FuncionarioMapper;
-import br.com.github.exemploapijava.controller.model.Funcionario;
+import br.com.github.exemploapijava.model.Funcionario;
 import br.com.github.exemploapijava.repository.FuncionarioRepository;
 import br.com.github.exemploapijava.request.FuncionarioRequest;
 import br.com.github.exemploapijava.response.FuncionarioResponse;

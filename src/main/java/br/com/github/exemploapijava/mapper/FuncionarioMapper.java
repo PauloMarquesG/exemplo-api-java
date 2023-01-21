@@ -1,6 +1,6 @@
 package br.com.github.exemploapijava.mapper;
 
-import br.com.github.exemploapijava.controller.model.Funcionario;
+import br.com.github.exemploapijava.model.Funcionario;
 import br.com.github.exemploapijava.request.FuncionarioRequest;
 import br.com.github.exemploapijava.response.FuncionarioResponse;
 import org.mapstruct.Mapper;
