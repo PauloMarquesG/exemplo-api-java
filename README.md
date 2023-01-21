@@ -1,11 +1,11 @@
 # API exemplo-api-java
 
 # Índice
-* [Sobre](#Sobre)
-* [Instalação](#Instalação)
-* [Funcionalidades do projeto](#Funcionalidades)
-* [Tecnologias Utilizadas](#Tecnologias)
-* [License](#License)
+* [Sobre](#sobre)
+* [Instalação](#instalacao)
+* [Funcionalidades do projeto](#funcionalidades-do-projeto)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [License](#license)
 
 # Sobre
 
