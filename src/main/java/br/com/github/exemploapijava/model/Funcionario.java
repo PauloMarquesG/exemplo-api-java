@@ -1,4 +1,4 @@
-package br.com.github.exemploapijava.controller.model;
+package br.com.github.exemploapijava.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
