@@ -2,7 +2,7 @@
 
 # Índice
 * [Sobre](#sobre)
-* [Instalação](#instalacao)
+* [Instalação](#instalação)
 * [Funcionalidades do projeto](#funcionalidades-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [License](#license)
